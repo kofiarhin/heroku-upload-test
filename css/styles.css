@@ -1,0 +1,9 @@
+body {
+    background: green;
+}
+
+h1 { 
+    font-size: 4rem;
+    text-transform: capitalize;
+    text-align: center;
+}
